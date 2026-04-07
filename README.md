@@ -34,7 +34,7 @@
     chmod +x z834_fix_wifi-sound.sh
     sudo ./z834_fix_wifi-sound.sh
     ```
-1.  腳本會自動在 USB 隨身碟裡面**「搜尋」**這個檔案並直接注入系統。
+1.  腳本會自動在 USB 隨身碟裡面 **「搜尋」** 這個檔案並直接注入系統。
 
 ---
 
